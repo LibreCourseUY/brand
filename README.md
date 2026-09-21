@@ -9,8 +9,6 @@ This repository contains the canonical versions of the LibreCourseUY logo and re
 ```text
 logo/
 ├── librecourseuy.svg
-├── librecourseuy-light.svg
-├── librecourseuy-dark.svg
 └── librecourseuy.png
 ```
 
