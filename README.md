@@ -1,7 +1,7 @@
 # LibreCourseUY Brand
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LibreCourseUY/brand/main/logo/logo.svg" alt="LibreCourseUY logo" width="240">
+  <img src="https://raw.githubusercontent.com/LibreCourseUY/brand/main/logo/logo_with_text.png" alt="LibreCourseUY logo" width="240">
 </p>
 
 Official brand assets and visual identity resources for [LibreCourseUY](https://librecourse.uy/).
