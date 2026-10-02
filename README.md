@@ -1,5 +1,9 @@
 # LibreCourseUY Brand
 
+<p align="center">
+  <img src="logo/librecourseuy.svg" alt="LibreCourseUY logo" width="240">
+</p>
+
 Official brand assets and visual identity resources for [LibreCourseUY](https://librecourse.uy/).
 
 This repository contains the canonical versions of the LibreCourseUY logo and related visual assets used across our projects, community spaces, documentation, and events.
